@@ -8,7 +8,7 @@ export default function UserData({
 }) {
   return (
     <div className="user-data">
-      <h4> You'r Submitted Data </h4>{" "}
+      <h4> You're Submitted Data </h4>{" "}
       <div className="input-container">
         <label> Full Name </label>{" "}
         <div className="value">
